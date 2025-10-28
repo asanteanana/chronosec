@@ -108,3 +108,7 @@ This project focuses on supporting incident response teams with accurate, framew
 ## License
 
 Private project for cybersecurity incident response use.
+
+## Acknowledgments
+
+Built with [v0.dev](https://v0.dev).
